@@ -16,7 +16,7 @@ $LNG['loading']								= 'Loading ...';
 
 $LNG['invalid_action']						= 'Action Invalidated!!';
 
-$LNG['type_mission'][1]  					= 'Attack';
+$LNG['type_mission'][1]  					= '进攻';
 $LNG['type_mission'][2]  					= 'ACS - Attack on cooperation';
 $LNG['type_mission'][3]  					= 'Transport';
 $LNG['type_mission'][4]  					= 'Deploy';
@@ -101,8 +101,8 @@ $LNG['ov_planet_abandoned']					= 'The planet was destroyed!';
 $LNG['ov_principal_planet_cant_abanone']	= 'You can not delete the main planet!';
 $LNG['ov_abandon_planet_not_possible']		= 'The planet cannot be erased, by having existing activities!';
 $LNG['ov_wrong_pass']						= 'Password incorrect!';
-$LNG['ov_have_new_message']					= 'You have a new message';
-$LNG['ov_have_new_messages']				= 'You have %d new messages';
+$LNG['ov_have_new_message']					= '你有一个新的消息';
+$LNG['ov_have_new_messages']				= '你有 %d 个新的消息';
 $LNG['ov_planetmenu']						= 'Rename or delete';
 $LNG['ov_free']								= 'Free';
 $LNG['ov_news']								= 'News';
@@ -111,9 +111,9 @@ $LNG['ov_of']								= 'of';
 $LNG['ov_planet']							= 'Planet';
 $LNG['ov_server_time']						= 'Server time';
 $LNG['ov_events']							= 'Activities';
-$LNG['ov_diameter']							= 'Diameter';
+$LNG['ov_diameter']							= '直径';
 $LNG['ov_distance_unit']					= 'km';
-$LNG['ov_temperature']						= 'Temperature';
+$LNG['ov_temperature']						= '温度';
 $LNG['ov_aprox']							= 'Approximately';
 $LNG['ov_temp_unit']						= '°C';
 $LNG['ov_to']								= 'to';
@@ -121,7 +121,7 @@ $LNG['ov_position']							= 'Position';
 $LNG['ov_points']							= 'Points';
 $LNG['ov_security_request']					= 'Security question';
 $LNG['ov_security_confirm']					= 'Please confirm if you want to destroy the planet %s .';
-$LNG['ov_password']							= 'Password';
+$LNG['ov_password']							= '密码';
 $LNG['ov_delete_planet']					= 'Delete Planet';
 $LNG['ov_planet_rename']					= 'Rename Planet';
 $LNG['ov_rename_label']						= 'New name';
@@ -178,7 +178,7 @@ $LNG['gl_galaxy']							= 'Galaxy';
 $LNG['gl_solar_system']						= 'System';
 $LNG['gl_show']								= 'View';
 $LNG['gl_pos']								= 'Pos.';
-$LNG['gl_planet']							= 'Planet';
+$LNG['gl_planet']							= '星球';
 $LNG['gl_name_activity']					= 'Name (Activity)';
 $LNG['gl_moon']								= 'Moon';
 $LNG['gl_debris']							= 'Debris';
@@ -198,8 +198,8 @@ $LNG['gl_debris_field']						= 'Debris Field';
 $LNG['gl_collect']							= 'Recycle';
 $LNG['gl_resources']						= 'Resources';
 $LNG['gl_features']							= 'Properties';
-$LNG['gl_diameter']							= 'Diameter';
-$LNG['gl_temperature']						= 'Temperatura';
+$LNG['gl_diameter']							= '直径';
+$LNG['gl_temperature']						= '温度';
 $LNG['gl_phalanx']							= 'Phalanx';
 $LNG['gl_planet_destroyed']					= 'Planet destroyed';
 $LNG['gl_playercard']						= 'Player profile';
@@ -226,17 +226,17 @@ $LNG['px_out_of_range']						= 'Out of reach';
 
 //----------------------------------------------------------------------------//
 // Império
-$LNG['lv_imperium_title']					= 'Empire';
-$LNG['lv_planet']							= 'Planet';
-$LNG['lv_name']								= 'Name';
+$LNG['lv_imperium_title']					= '帝国';
+$LNG['lv_planet']							= '星球';
+$LNG['lv_name']								= '名称';
 $LNG['lv_coords']							= 'Coordinates';
 $LNG['lv_fields']							= 'Fields';
-$LNG['lv_resources']						= 'Resources';
-$LNG['lv_buildings']						= 'Buildings';
-$LNG['lv_technology']						= 'Technologies';
-$LNG['lv_ships']							= 'Ships';
-$LNG['lv_defenses']							= 'Defenses';
-$LNG['lv_total']							= 'Total';
+$LNG['lv_resources']						= '资源';
+$LNG['lv_buildings']						= '建筑';
+$LNG['lv_technology']						= '科技';
+$LNG['lv_ships']							= '舰船';
+$LNG['lv_defenses']							= '防御';
+$LNG['lv_total']							= '总计';
 
 //----------------------------------------------------------------------------//
 // Fleet
@@ -369,7 +369,7 @@ $LNG['bd_build_next_level']					= '建造到 ';
 $LNG['bd_research']							= '研究';
 $LNG['bd_tech']								= '研究';
 $LNG['bd_tech_next_level']					= '研究到 ';
-$LNG['bd_add_to_list']				        = 'Add to list';
+$LNG['bd_add_to_list']				        = '加入到建筑列表';
 $LNG['bd_no_more_fields']					= 'Without free fields on the planet';
 $LNG['bd_remaining']						= 'Remaining:';
 $LNG['bd_lab_required']					    = 'First you have to build a research lab!';
@@ -380,14 +380,14 @@ $LNG['bd_research']							= 'Research for';
 $LNG['bd_shipyard_required']				= 'Its required an Shipyard first';
 $LNG['bd_building_shipyard']				= 'You cant build ships when Shipyard is raising level';
 $LNG['bd_available']						= 'Available: ';
-$LNG['bd_build_ships']						= 'Build';
+$LNG['bd_build_ships']						= '建造';
 $LNG['bd_protection_shield_only_one']		= 'You can only build the shield 1 time!';
 $LNG['bd_build_defenses']					= 'Build defense';
 $LNG['bd_actual_production']				= 'Current production:';
 $LNG['bd_completed']						= 'Complete';
 $LNG['bd_operating']						= '(In construction)';
 $LNG['bd_continue']							= 'Continue';
-$LNG['bd_price_for_destroy']				= 'Cost to destroy:';
+$LNG['bd_price_for_destroy']				= '拆除花费:';
 $LNG['bd_ready']							= 'Ready';
 $LNG['bd_finished']							= 'Finished';
 $LNG['bd_maxlevel']                         = 'Maximum level reached';
@@ -450,8 +450,8 @@ $LNG['tr_exchange']							= 'Trade';
 
 //----------------------------------------------------------------------------//
 // Tecnologia
-$LNG['tt_requirements']						= 'Requirements';
-$LNG['tt_lvl']								= 'Level ';
+$LNG['tt_requirements']						= '需要';
+$LNG['tt_lvl']								= '等级 ';
 
 //----------------------------------------------------------------------------//
 // Infos
@@ -464,19 +464,19 @@ $LNG['in_jump_gate_already_used']			= 'The jump gate was used, time to load ener
 $LNG['in_jump_gate_available']				= 'Available';
 $LNG['in_rf_again']    			            = 'Rapidfire against';
 $LNG['in_rf_from']     			            = 'Rapidfire from';
-$LNG['in_level']       				        = 'Level';
+$LNG['in_level']       				        = '等级';
 $LNG['in_storage'] 							= 'Storage';
 $LNG['in_prod_p_hour'] 						= 'Prod. per hour';
 $LNG['in_difference']  						= 'Difference';
 $LNG['in_range']       						= 'Sensor range';
 $LNG['in_title_head']  						= 'Information of';
-$LNG['in_name']        						= 'Name';
+$LNG['in_name']        						= '名称';
 $LNG['in_struct_pt']   			            = 'Structural integrity';
 $LNG['in_shield_pt']   			            = 'Shield Power';
 $LNG['in_attack_pt']   			            = 'Attack Power';
-$LNG['in_capacity']    				        = 'Cargo capacity';
-$LNG['in_units']       			            = 'Unit';
-$LNG['in_base_speed'] 				        = 'Base speed';
+$LNG['in_capacity']    				        = '货物容量';
+$LNG['in_units']       			            = '单位';
+$LNG['in_base_speed'] 				        = '基本速度';
 $LNG['in_consumption'] 	                    = 'Fuel used(Deuterium)';
 $LNG['in_jump_gate_start_moon']			    = 'Moon jump';
 $LNG['in_jump_gate_finish_moon']			= 'Destination Moon jump';
@@ -488,7 +488,7 @@ $LNG['in_needed']      						= 'Requires';
 $LNG['in_dest_durati'] 			            = 'Time to the destruction';
 $LNG['in_missilestype']   					= 'Missile type';
 $LNG['in_missilesamount']    				= 'Number of Missiles avaliable';
-$LNG['in_engine'] 							= 'Engine';
+$LNG['in_engine'] 							= '引擎';
 $LNG['in_bonus'] 							= 'Bonus:';
 
 //----------------------------------------------------------------------------//
@@ -854,14 +854,14 @@ $LNG['sh_loading']							= '(Loading ...)';
 
 //----------------------------------------------------------------------------//
 //OPTIONS
-$LNG['op_error']							= 'Error';
+$LNG['op_error']							= '错误';
 $LNG['op_cant_activate_vacation_mode']		= 'You can not activate the vacation mode with fleet actiividades.';
-$LNG['op_password_changed']					= 'Password changed';
-$LNG['op_username_changed']					= 'Username changed';
-$LNG['op_options_changed']					= 'Options changed';
+$LNG['op_password_changed']					= '密码已变更';
+$LNG['op_username_changed']					= '用户名已变更';
+$LNG['op_options_changed']					= '选项已变更';
 $LNG['op_vacation_mode_active_message']		= 'Vacation mode is active and will end up in: ';
 $LNG['op_end_vacation_mode']				= 'End period of vacation';
-$LNG['op_save_changes']						= 'Save changes';
+$LNG['op_save_changes']						= '保存变更';
 $LNG['op_admin_title_options']				= 'Administrative Options';
 $LNG['op_admin_planets_protection']			= 'Enable protection of Planets';
 $LNG['op_user_data']						= 'User data';
@@ -872,9 +872,9 @@ $LNG['op_repeat_new_pass']					= 'New Password (repeat)';
 $LNG['op_email_adress']						= 'Email address';
 $LNG['op_permanent_email_adress']			= 'Permanent email address';
 $LNG['op_general_settings']					= 'General options';
-$LNG['op_sort_planets_by']					= 'Sort by planets';
+$LNG['op_sort_planets_by']					= '按星球排列';
 $LNG['op_sort_kind']						= 'Order of classification';
-$LNG['op_lang']								= 'Language';
+$LNG['op_lang']								= '语言';
 $LNG['op_skin_example']						= 'Theme';
 $LNG['op_show_skin']						= 'Display Skin';
 $LNG['op_deactivate_ipcheck']				= 'Verification of IP disabled';
@@ -885,7 +885,7 @@ $LNG['op_seconds']							= 'Seconds';
 $LNG['op_max_fleets_messages']				= 'Number of max messages of Fleet';
 $LNG['op_show_planetmenu']					= 'View menu of Planets';
 $LNG['op_shortcut']							= 'Shortcut';
-$LNG['op_show']								= 'View';
+$LNG['op_show']								= '查看';
 $LNG['op_spy']								= 'Spying';
 $LNG['op_write_message']					= 'Write Message';
 $LNG['op_add_to_buddy_list']				= 'Send friend request';
@@ -967,10 +967,10 @@ $LNG['cff_mission_target_mip']				= 'Missile attack (%d) from player %s from %s 
 
 //----------------------------------------------------------------------------//
 // Funções Extras
-$LNG['fcm_universe']						= 'Universe';
-$LNG['fcm_mainplanet']						= 'Main Planet';
-$LNG['fcm_planet']							= 'Planet';
-$LNG['fcm_moon']							= 'Moon';
+$LNG['fcm_universe']						= '宇宙';
+$LNG['fcm_mainplanet']						= '主星';
+$LNG['fcm_planet']							= '星球';
+$LNG['fcm_moon']							= '月球';
 $LNG['fcm_info']							= 'Info';
 $LNG['fcp_colony']							= 'Colony';
 $LNG['fgp_require']							= 'Requirements: ';
@@ -1038,7 +1038,7 @@ $LNG['ma_missiles_sended']					= ' Missles Deployed. Targeted: ';
 
 //----------------------------------------------------------------------------//
 // Hall da Fama
-$LNG['tkb_top']								= 'Hall of Fame';
+$LNG['tkb_top']								= '名人堂';
 $LNG['tkb_gratz']							= 'The whole team congratulates the top 100 ';
 $LNG['tkb_platz']							= 'Place';
 $LNG['tkb_owners']							= 'Users involved';
@@ -1053,7 +1053,7 @@ $LNG['tkb_missing']							= '<br>Missing in Action: The user account does not ex
 //----------------------------------------------------------------------------//
 // Perfil de Jogador
 $LNG['pl_overview']							= 'Player Profile';
-$LNG['pl_name']								= 'Username';
+$LNG['pl_name']								= '用户名';
 $LNG['pl_homeplanet']						= 'Home planet';
 $LNG['pl_ally']								= 'Alliance';
 $LNG['pl_message']							= 'Message';
@@ -1154,11 +1154,11 @@ $LNG['ft_empty']							= 'Empty';
 
 //----------------------------------------------------------------------------//
 // Logout
-$LNG['lo_title']							= 'Successfully logged out';
+$LNG['lo_title']							= '登出成功';
 $LNG['lo_logout']							= 'Your session was terminated. Hopefully voltes';
 $LNG['lo_redirect']							= 'Redirect';
 $LNG['lo_notify']							= 'Will be redirected in <span id="seconds">5</span> seconds';
-$LNG['lo_continue']							= 'Click here not to wait';
+$LNG['lo_continue']							= '点击此处立刻跳转';
 
 //----------------------------------------------------------------------------//
 
