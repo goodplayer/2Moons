@@ -25,8 +25,8 @@ $LNG['menu_disclamer']				= 'Contacts';
 $LNG['menu_register']				= 'Registration';
 
 // Universe select
-$LNG['chose_a_uni']					= 'Choose the Universe';
-$LNG['universe']					= 'Universe';
+$LNG['chose_a_uni']					= '请选择宇宙';
+$LNG['universe']					= '宇宙';
 $LNG['uni_closed']					= ' (closed)';
 
 // Button
@@ -43,19 +43,19 @@ $LNG['gameInformations']			= array(
 );
 
 // Login
-$LNG['loginHeader']					= 'Login';
-$LNG['loginUsername']				= 'Username';
-$LNG['loginPassword']				= 'Password';
-$LNG['loginButton']					= 'Login';
+$LNG['loginHeader']					= '登陆';
+$LNG['loginUsername']				= '用户名';
+$LNG['loginPassword']				= '密码';
+$LNG['loginButton']					= '登陆';
 $LNG['loginInfo']					= 'With the login I accept the %s.';
 $LNG['loginWelcome']				= 'Welcome to %s';
 $LNG['loginServerDesc']				= '%s is a space strategy game with hundreds of players playing together <strong>at the same time</strong> trying to be the best. Everything what you need to the play is a Standard Browser.';
 
 // Register
 $LNG['registerFacebookAccount']		= 'Facebook Account';
-$LNG['registerUsername']			= 'Username';
+$LNG['registerUsername']			= '用户名';
 $LNG['registerUsernameDesc']		= 'The Username must be at least 3 and maximum of 25 characters and points, and may consist of numbers, letters, underscores and spaces';
-$LNG['registerPassword']			= 'Password';
+$LNG['registerPassword']			= '密码';
 $LNG['registerPasswordDesc']		= 'The password must be at least 8 characters long.';
 $LNG['registerPasswordReplay']		= 'Repeat Password';
 $LNG['registerPasswordReplayDesc']	= 'Please enter the same password.';
@@ -71,8 +71,8 @@ $LNG['registerCaptchaReload']		= 'Reload Captcha.';
 $LNG['registerRules']				= 'Rules';
 $LNG['registerRulesDesc']			= 'I agree with the %s';
 
-$LNG['registerBack']				= 'Back';
-$LNG['registerNext']				= 'Next';
+$LNG['registerBack']				= '上一步';
+$LNG['registerNext']				= '下一步';
 
 $LNG['registerErrorUniClosed']		= 'The registration is closed in this universe.!';
 $LNG['registerErrorUsernameEmpty']	= 'You must enter a username!';
@@ -90,7 +90,7 @@ $LNG['registerErrorCaptcha']		= 'The security code is incorrect!';
 $LNG['registerMailVertifyTitle']	= 'Activation of registration on the game: %s';
 $LNG['registerMailVertifyError']	= 'Failed to send mail: %s';
 
-$LNG['registerMailCompleteTitle']	= 'Welcome to %s!';
+$LNG['registerMailCompleteTitle']	= '欢迎你 %s!';
 
 $LNG['registerSendComplete']		= 'Thank you for the registration. You must check your email (Attention with the SPAM) with further information.';
 
@@ -106,10 +106,10 @@ $LNG['vertifyAdminMessage']			= 'The username "%s" has enabled!';
 
 //lostpassword
 $LNG['passwordInfo']				= 'If you have forgotten your password, you must specify the user name and the E-Mail address that you have entered in your account.';
-$LNG['passwordUsername']			= 'Username';
+$LNG['passwordUsername']			= '用户名';
 $LNG['passwordMail']				= 'E-Mail';
 $LNG['passwordCaptcha']				= 'Security code';
-$LNG['passwordSubmit']				= 'Submit';
+$LNG['passwordSubmit']				= '提交';
 $LNG['passwordErrorUsernameEmpty']	= 'You have no specified the Username!';
 $LNG['passwordErrorMailEmpty']		= 'You have specified an unknown email address!';
 $LNG['passwordErrorUnknown']		= 'It could not be found with the account data.';
@@ -122,12 +122,12 @@ $LNG['passwordValidInValid']		= 'Invalid Request!';
 $LNG['passwordChangedMailSend']		= 'You will receive an email shortly with your new password.';
 $LNG['passwordChangedMailTitle']	= 'New password on the game: %s';
 
-$LNG['passwordBack']				= 'Back';
-$LNG['passwordNext']				= 'Next';
+$LNG['passwordBack']				= '上一步';
+$LNG['passwordNext']				= '下一步';
 
 //case default
 
-$LNG['login_error_1']				= 'Wrong username/password!';
+$LNG['login_error_1']				= '用户名或密码错误!';
 $LNG['login_error_2']				= 'Someone has logged in from a different PC in your account, or your IP is different!';
 $LNG['login_error_3']				= 'Your session has expired!';
 $LNG['login_error_4']				= 'There was an error in external authorization, please try again!';

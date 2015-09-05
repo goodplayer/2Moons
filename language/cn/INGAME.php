@@ -174,7 +174,7 @@ $LNG['gl_missil_to_launch']					= 'Number of Missiles (<b>%d</b> disp.):';
 $LNG['gl_all_defenses']						= 'All defenses';
 $LNG['gl_objective']						= 'Main Objective';
 $LNG['gl_missil_launch_action']				= 'Send';
-$LNG['gl_galaxy']							= 'Galaxy';
+$LNG['gl_galaxy']							= '银河';
 $LNG['gl_solar_system']						= 'System';
 $LNG['gl_show']								= 'View';
 $LNG['gl_pos']								= 'Pos.';
@@ -218,7 +218,7 @@ $LNG['gl_to']								= 'to';
 
 //----------------------------------------------------------------------------//
 // Sensor Phalanx
-$LNG['px_no_deuterium']						= "Don't have enough deuterium!";
+$LNG['px_no_deuterium']						= "重氢不足!";
 $LNG['px_scan_position']					= 'Investigate position';
 $LNG['px_fleet_movement']					= 'Fleet in movement';
 $LNG['px_no_fleet']							= 'There is no moving fleets.';

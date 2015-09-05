@@ -113,7 +113,7 @@ $LNG['tech'] = array(
 207 => 'Battleship',
 208 => 'Colony Ship',
 209 => 'Recycler',
-210 => 'Spy Probe',
+210 => '探测器',
 211 => 'Planet Bomber',
 212 => 'Solar Satellite',
 213 => 'Star Fighter',
@@ -138,8 +138,8 @@ $LNG['tech'] = array(
 410 => 'Gravitons Cannon',
 411 => 'Orbital Defence Platform',
 
-500 => 'Missiles',
-502 => 'Interceptor',
+500 => '导弹',
+502 => '拦截器',
 503 => 'Interplanetary missiles',
 
 600 => 'Officers',
